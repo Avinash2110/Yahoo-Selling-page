@@ -1,0 +1,30 @@
+body{
+    padding-top: 20px;
+}
+
+.navbar{
+    background-color: cornsilk;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.fon{
+    margin:0 50px;
+}
+
+.fon >a{
+    color: #777;
+    text-align: center;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.row .col-lg-4{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: darkcyan;
+}
